@@ -1,11 +1,16 @@
 _repo: A-nossa-Gente_67561
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67561-h/images/cover.jpg
 creator:
   author:
     agent_name: Queiroz, Francisco Teixeira de
     gutenberg_agent_id: '54329'
     url: http://www.gutenberg.org/2009/agents/54329
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67561#A-nossa-Gente
 gutenberg_issued: '2022-03-05'
 identifiers:
   gutenberg: '67561'
